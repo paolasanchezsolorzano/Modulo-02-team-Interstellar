@@ -7,7 +7,7 @@ https://youtu.be/KxBmlQzjztw
 ## **Explorando el Séptimo Arte a través de Datos y Tecnología**
 ### **Participantes en el proyecto** 📝
 
-_Sigue los links y hecha un vistaso a ell gran talento humano que hace parte de este proyecto_
+_Sigue los links y hecha un vistaso al gran talento humano que hace parte de este proyecto_
 
 🎞 [Paola Jineth Sánchez Solórzano](https://www.linkedin.com/in/paola-s%C3%A1nchez-sol%C3%B3rzano-5a05751b4/)
 
