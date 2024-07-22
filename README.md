@@ -7,15 +7,17 @@ https://youtu.be/KxBmlQzjztw
 ## **Explorando el Séptimo Arte a través de Datos y Tecnología**
 ### **Participantes en el proyecto** 📝
 
-🎞 Paola Jineth Sánchez Solórzano
+_Sigue los links y hecha un vistaso a ell gran talento humano que hace parte de este proyecto_
 
-🎞 Gloria González Muñoz (https://www.linkedin.com/in/gloria-gonzalez-105500107/)
+🎞 [Paola Jineth Sánchez Solórzano](https://www.linkedin.com/in/paola-s%C3%A1nchez-sol%C3%B3rzano-5a05751b4/)
 
-🎞 Silvia Marrero Pazos (https://www.linkedin.com/in/silvia-marrero-pazos-0b95b083/)
+🎞 [Gloria González Muñoz](https://www.linkedin.com/in/gloria-gonzalez-105500107/)
 
-🎞 Margarita María Torres Rodriguez
+🎞 [Silvia Marrero Pazos](https://www.linkedin.com/in/silvia-marrero-pazos-0b95b083/)
 
-🎞 Mábel Martínez Rodríguez (www.linkedin.com/in/mabelmr)
+🎞 [Margarita María Torres Rodriguez](https://www.linkedin.com/in/margarita-torres-r/)
+
+🎞 [Mábel Martínez Rodríguez](www.linkedin.com/in/mabelmr)
 
 ## **1. Resumen**
 La plataforma de streaming BHO se encuentra en una búsqueda constante para mejorar la calidad de su contenido y la satisfacción de sus usuarios. Nuestro proyecto consiste en aplicar técnicas de análisis de datos para identificar cuáles son las películas y cortometrajes más populares y mejor valorados desde 2010 hasta la fecha. Esto ayudará a BHO a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
